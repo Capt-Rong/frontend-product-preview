@@ -6,14 +6,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## 📸 Screenshot
 
-<div align="center">
 ![Preview](./design/desktop-preview.jpg)
-![Preview](./design/mobile-design.jpg)
-</div>
 
 ## 🔗 Live Site
 
-[View Live on GitHub Pages](https://captrong.github.io/project-05-product-preview)
+[View Live on GitHub Pages](https://github.com/Capt-Rong/frontend-product-preview)
 
 ## 🛠️ Built With
 
